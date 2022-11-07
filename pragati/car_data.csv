@@ -1,0 +1,5 @@
+﻿,car name,displacement,horsepower,weight,acceleration,model year,origin,cylinders,mpg
+1,audi 100 ls,107,90,2430,14.5,70,2,4,24
+2,saab 99e,104,95,2375,17.5,70,2,4,25
+3,bmw 2002,121,113,2234,12.5,70,2,4,26
+4,ford f250,360,215,4615,14,70,1,8,10
