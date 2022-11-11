@@ -46,5 +46,7 @@ pylt.figure(1)
 pylt.hist(stp["reading score"],density=True,  label="reading score")
 pylt.hist(stp["writing score"], density=True, alpha=0.7, label="writing score")
 pylt.legend()
+pylt.xlabel('Score')
+pylt.ylabel('Frequency')
 pylt.show()
 
